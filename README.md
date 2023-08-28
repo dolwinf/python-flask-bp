@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This is sample dockerised boiler plate for creating a REST api using Flask and friends in Python.
+Simple dockerised boiler plate code for creating a REST api using Flask and friends in Python.
 Code from blog post https://rest-apis-flask.teclado.com/docs/first_rest_api/getting_set_up/
 
 ## To run the app
